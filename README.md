@@ -1,2 +1,2 @@
-# py
-Python
+# python
+Python sketches
